@@ -1,0 +1,2 @@
+# Assembly code ni idol 
+ 
